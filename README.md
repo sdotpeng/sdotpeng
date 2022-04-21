@@ -11,3 +11,7 @@
 <!--![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdotpeng&show_icons=true&theme=vue&count_private=true&)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdotpeng&hide=AGS%20Script,Jupyter%20Notebook&layout=compact&theme=vue&langs_count=9)
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdotpeng&hide=AGS%20Script,Jupyter%20Notebook&layout=compact&theme=vue&langs_count=9" />
+</a>
