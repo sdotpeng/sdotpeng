@@ -12,6 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdotpeng&hide=AGS%20Script,Jupyter%20Notebook&layout=compact&theme=vue&langs_count=9)
 
-<a>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdotpeng&hide=AGS%20Script,Jupyter%20Notebook&layout=compact&theme=vue&langs_count=9" />
-</a>
+</p>
